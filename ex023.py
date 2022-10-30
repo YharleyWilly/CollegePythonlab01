@@ -5,6 +5,7 @@ desconto no INSS. Se o professor ganhar mais que 10 salários mínimos dizer que
 dia você chega lá!”, se receber menos que 6 salários mínimos você deverá exibir a
 seguinte mensagem: “Ah! Coitado!”.
 """
+
 valorHora = float(input("Informe o valor da hora aula (R$#####.##): R$"))
 horasAula = float(input("Informe quantas horas são trabalhadas no dia: "))
 aulasMes = int(input("Informe número de aulas dadas no mês: "))
