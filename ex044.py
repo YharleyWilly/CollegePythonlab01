@@ -1,3 +1,11 @@
+"""
+Program that registers branches in a given state with the billing of the respective states, specifying the number of branches in each state. 
+
+It also displays the total number of branches and revenues in the region, always showing the lists on the screen for a better user understanding of the registered data.
+
+The program has an interactive menu, which allows the user to register, change, remove and/or show new billing values and/or branches on the screen.
+"""
+
 estadoFiliais = []
 filiaisPorEstado = []
 faturamentoEstado = []
